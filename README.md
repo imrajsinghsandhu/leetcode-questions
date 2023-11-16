@@ -25,7 +25,7 @@ This dataset can be utilized for a variety of purposes, including:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/leetcode-questions-dataset.git
+   gh repo clone imrajsinghsandhu/leetcode-questions
    ```
 
 2. **Access the Data:**
