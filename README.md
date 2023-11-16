@@ -55,6 +55,7 @@ for question in leetcode_data:
 ```
 
 ### Example Questions
+![Alt text](example_question.png)
 
 1. **Reconstruct Itinerary**
    - **Difficulty**: Hard
@@ -85,5 +86,4 @@ If you find any issues with the dataset or have suggestions for improvement, fee
 ### Disclaimer
 
 This dataset is for educational and exploratory purposes only. LeetCode is a registered trademark of LeetCode, Inc. This repository is not affiliated with or endorsed by LeetCode.
-
 Happy coding! 🚀
